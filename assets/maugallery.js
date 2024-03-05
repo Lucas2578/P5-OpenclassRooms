@@ -192,7 +192,6 @@
           index = i;
         }
       });
-      
       index = (index + 1) % imagesCollection.length;
       next = imagesCollection[index][0];
     
